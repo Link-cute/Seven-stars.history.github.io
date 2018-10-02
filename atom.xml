@@ -99,15 +99,17 @@
     <link href="http://yoursite.com/picture/"/>
     <id>http://yoursite.com/picture/</id>
     <published>2018-09-01T12:46:25.000Z</published>
-    <updated>2018-10-02T11:43:36.856Z</updated>
+    <updated>2018-10-02T23:23:22.301Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/picture/99d0476a015df83568b77cb10f7b27f089b2e75a.jpg@1320w_2332h.jpg" alt="99d0476a015df83568b77cb10f7b27f089b2e75a.jpg@1320w_2332h"></p><p><img src="/picture/fbed8b79850e7b47d2700f4018f6d35f2511c795.jpg@1320w_936h.jpg" alt="fbed8b79850e7b47d2700f4018f6d35f2511c795.jpg@1320w_936h"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/picture/Picture 1.jpg" alt="Picture 1"></p><p><img src="/picture/Picture 2.jpg" alt="Picture 2"></p><p><img src="/picture/Picture 3.jpg" alt="Picture 3"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/picture/99d0476a015df83568b77cb10f7b27f089b2e75a.jpg@1320w_2332h.jpg&quot; alt=&quot;99d0476a015df83568b77cb10f7b27f089b2e75a.jpg@1320w_
+        &lt;p&gt;&lt;img src=&quot;/picture/Picture 1.jpg&quot; alt=&quot;Picture 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/picture/Picture 2.jpg&quot; alt=&quot;Picture 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/picture/Pi
       
     
     </summary>
